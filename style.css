@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+"p" {
+  text-align: left;
+}
+p {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 35px;
+}
+h3 {
+  font-size: 35px;
+}
+ul {
+  font-size: 25px;
+}
+.first {
+  display: block;
+  margin: 0 auto;
+}
+.second {
+  float: right;
+}
